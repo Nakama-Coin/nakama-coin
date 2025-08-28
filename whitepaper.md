@@ -2,7 +2,7 @@
 ## The First Friendship-Focused Anime Cryptocurrency
 
 **Version 2.0**  
-**Date: January 2025**
+**Date: August 2025**
 
 ---
 
@@ -123,8 +123,8 @@ function redeemFriendshipPoints(uint256 points) public
 **Contract Details:**
 - **Standard**: ERC-20 (Ethereum compatible)
 - **Decimals**: 18 (standard precision)
-- **Max Supply**: 1,000,000,000 NAKAMA
-- **Initial Supply**: 200,000,000 NAKAMA (20%)
+- **Max Supply**: 10,000,000,000 NAKAMA
+- **Initial Supply**: 2,000,000,000 NAKAMA (20%)
 - **Owner Controls**: Minting, partner approval, verification system
 
 ---
@@ -133,32 +133,32 @@ function redeemFriendshipPoints(uint256 points) public
 
 ### Token Distribution
 
-**Total Supply: 1,000,000,000 NAKAMA**
+**Total Supply: 10,000,000,000 NAKAMA**
 
-- **Founder Allocation**: 200,000,000 NAKAMA (20%)
+- **Founder Allocation**: 200,000,000,000 NAKAMA (20%)
   - Development funding and project leadership
   - Long-term commitment demonstration
   - Strategic reserve for major partnerships
 
-- **Community Rewards**: 350,000,000 NAKAMA (35%)
+- **Community Rewards**: 350,000,000,000 NAKAMA (35%)
   - Friendship point redemptions
   - Group purchase bonuses and cashbacks
   - New user acquisition rewards
   - Community event prizes and competitions
 
-- **Anime Ecosystem Partners**: 250,000,000 NAKAMA (25%)
+- **Anime Ecosystem Partners**: 250,000,000,000 NAKAMA (25%)
   - Streaming platform integrations (Crunchyroll, Funimation)
   - Creator and artist collaboration funds
   - Convention and event partnerships
   - Merchandise platform integrations
 
-- **Marketing & Growth**: 120,000,000 NAKAMA (12%)
+- **Marketing & Growth**: 120,000,000,000 NAKAMA (12%)
   - Influencer and content creator partnerships
   - Social media campaigns and viral growth
   - Convention presence and sponsorships
   - Exchange listing and liquidity incentives
 
-- **Development Team**: 80,000,000 NAKAMA (8%)
+- **Development Team**: 80,000,000,000 NAKAMA (8%)
   - Technical development and maintenance
   - Platform integrations and API development
   - Mobile app and wallet development
@@ -372,14 +372,14 @@ function nakamaGroupPurchase(address[] memory nakamaGroup, uint256 amountPerNaka
 
 ## Roadmap
 
-### Phase 1: Foundation (Q1 2025) ✅
+### Phase 1: Foundation (Q3 2025) ✅
 
 - [x] **Smart Contract Deployment** on Polygon mainnet
 - [x] **Initial Liquidity** creation on QuickSwap V2
 - [x] **Community Website** and documentation
 - [x] **Basic Trading** functionality verification
 
-### Phase 2: Market Entry (Q1-Q2 2025)
+### Phase 2: Market Entry (Q3-Q4 2025)
 
 - [ ] **CoinGecko Listing** and price tracking integration
 - [ ] **CoinMarketCap** submission and approval
@@ -387,7 +387,7 @@ function nakamaGroupPurchase(address[] memory nakamaGroup, uint256 amountPerNaka
 - [ ] **First Anime Platform** integration partnership
 - [ ] **Mobile Wallet** support optimization
 
-### Phase 3: Network Effects (Q2-Q3 2025)
+### Phase 3: Network Effects (Q1-Q3 2026)
 
 - [ ] **10,000+ Token Holders** across global anime community
 - [ ] **Major Anime Convention** partnerships and presence
@@ -395,7 +395,7 @@ function nakamaGroupPurchase(address[] memory nakamaGroup, uint256 amountPerNaka
 - [ ] **Group Purchase Platform** beta testing with anime merchandise
 - [ ] **Friendship Analytics Dashboard** for community insights
 
-### Phase 4: Ecosystem Expansion (Q3-Q4 2025)
+### Phase 4: Ecosystem Expansion (Q3-Q4 2026)
 
 - [ ] **Streaming Platform Integration** with major services
 - [ ] **NFT Marketplace** for anime collectibles and art
@@ -403,7 +403,7 @@ function nakamaGroupPurchase(address[] memory nakamaGroup, uint256 amountPerNaka
 - [ ] **Cross-Chain Bridge** to Ethereum for maximum reach
 - [ ] **DeFi Integration** with yield farming and staking options
 
-### Phase 5: Global Scale (2026+)
+### Phase 5: Global Scale (2027+)
 
 - [ ] **1 Million+ Active Users** in global anime community
 - [ ] **Anime Tourism Integration** with Japan travel services
@@ -604,8 +604,8 @@ The future of anime commerce is social, global, and built on the foundation of f
 **Important Notice:** This white paper is for informational purposes only and does not constitute financial advice. Cryptocurrency investments carry significant risks, and potential users should conduct their own research and consider their financial situation before participating in the Nakama Coin ecosystem.
 
 **Contact Information:**
-- **Website**: https://nakama-coin.github.io/nakama-coin/
-- **Contract**: https://polygonscan.com/address/0x728C17aEcBC953Aca3ae004FDbbdd5a86545e5Ea (Polygon)
+- **Website**: https://nakama-coin.com/
+- **Contract**: https://polygonscan.com/address/0x9e7E2c71463E4Ba32f79826d7eDF6393dcA28915 (Polygon)
 - **Trading**: QuickSwap V2 (NAKAMA/MATIC)
 - **Community**: Discord, Twitter, Telegram (Links Coming Soon)
 
