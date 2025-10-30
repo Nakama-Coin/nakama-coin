@@ -241,7 +241,7 @@ Nakama Coin (NAKAMA) is a community-driven cryptocurrency that rewards genuine f
 
 ## 💰 TOKENOMICS & REWARDS
 
-### Token Distribution (Total: 10,000,000,000 NAKAMA)
+### Token Distribution (Total: 100,000,000,000 NAKAMA)
 
 | Allocation | Amount | Purpose |
 | --- | --- | --- |
