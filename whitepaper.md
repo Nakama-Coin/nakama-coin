@@ -1,6 +1,4 @@
-# NAKAMA COIN - BNB ROADMAP
-
-# 🚀 NAKAMA COIN BNB ROADMAP
+# 🚀 NAKAMA COIN BNB WHITEPAPER
 
 ## The First Friendship-Focused Anime Cryptocurrency on Binance Smart Chain
 
